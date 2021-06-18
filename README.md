@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 👨‍💻 I’m currently working on **Everest DAO** at Everest Labs
+- 🕵️‍♂️ Researching Avalanche Projects
+- 💼 Looking for Partnerships & Talented Developers
+- 📫 **polarbear_avax@protonmail.com**
+
 <!--
 **PolarBear-AVAX/PolarBear-AVAX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
